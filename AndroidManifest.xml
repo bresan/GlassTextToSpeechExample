@@ -1,5 +1,5 @@
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
-    package="com.bresan.glass.examples.AccelerometerExample"
+    package="com.bresan.glass.examples.TextToSpeechExample"
     android:versionCode="1"
     android:versionName="1.0" >
 
@@ -12,7 +12,7 @@
         android:label="@string/app_name"
         android:theme="@android:style/Theme.NoTitleBar.Fullscreen" >
         <activity
-            android:name="com.bresan.glass.examples.AccelerometerExample.AccelerometerActivity"
+            android:name="com.bresan.glass.examples.TextToSpeechExample.AccelerometerActivity"
             android:label="@string/app_name"
             android:theme="@style/MenuTheme" >
             <intent-filter>
